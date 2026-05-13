@@ -1,4 +1,4 @@
-<img width="1173" height="929" alt="13 05 2026_11 24 26_REC" src="https://github.com/user-attachments/assets/265817f3-03be-4df0-bc24-e9a677837fea" />
+
 # 🚀 AI Data Analyst Pro
 
 <div align="center">
