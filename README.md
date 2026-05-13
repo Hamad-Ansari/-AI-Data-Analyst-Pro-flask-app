@@ -1,3 +1,4 @@
+<img width="1173" height="929" alt="13 05 2026_11 24 26_REC" src="https://github.com/user-attachments/assets/265817f3-03be-4df0-bc24-e9a677837fea" />
 # 🚀 AI Data Analyst Pro
 
 <div align="center">
@@ -22,8 +23,11 @@
   <img src="https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white" />
 </p>
 
----
 
+<img width="1173" height="929" alt="13 05 2026_11 24 26_REC" src="https://github.com/user-attachments/assets/8d7dd572-9e95-4ee2-94d4-b11208081d0b" />
+<img width="1175" height="920" alt="13 05 2026_11 27 08_REC" src="https://github.com/user-attachments/assets/078d61b7-04b7-4714-a0e9-b68752e462b2" />
+
+---
 ### ⚡ Enterprise-Grade Full Stack AI Data Science Platform
 
 AI Data Analyst Pro is a modern full-stack analytics platform built with **Flask, React, Machine Learning, AutoML, LLMs, and Predictive Forecasting** technologies.
